@@ -1,0 +1,8 @@
+steps to do : for ganme mirrpr(self discovery game)
+step - create gamestates
+step 2- gamesstate 0 create background and a mirror and a charcter 
+step 3- make the character move with the right arrow key tpo the mirror
+step 4- when u touch the mirror gamstate vhanges and now we are inside the mirror world
+x= 625
+sketch.js:37 y= 520
+sketch.js:38 scale= 0.6199999999999999
